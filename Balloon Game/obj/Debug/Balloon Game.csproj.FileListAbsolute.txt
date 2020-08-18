@@ -1,0 +1,21 @@
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow_Game.GameForm.resources
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow_Game.HomeForm.resources
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Balloon Game.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Balloon Game.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\bin\Debug\Balloon Game.exe.config
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\bin\Debug\Balloon Game.exe
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\bin\Debug\Balloon Game.pdb
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Balloon_Game.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Balloon Game.exe
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Balloon Game.pdb
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\bin\Debug\Balloon Game.exe.config
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\bin\Debug\Balloon Game.exe
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\bin\Debug\Balloon Game.pdb
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon Game.csprojAssemblyReference.cache
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon_Game.GameForm.resources
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon_Game.HomeForm.resources
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon_Game.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon Game.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon Game.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon Game.exe
+C:\Users\MuradPc\source\repos\Balloon Game\Balloon Game\obj\Debug\Balloon Game.pdb

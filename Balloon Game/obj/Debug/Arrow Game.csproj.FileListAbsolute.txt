@@ -1,0 +1,11 @@
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow Game.csprojAssemblyReference.cache
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow Game.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow Game.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow_Game.HomeForm.resources
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Arrow_Game.GameForm.resources
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\bin\Debug\Ballon Game.exe.config
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\bin\Debug\Ballon Game.exe
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\bin\Debug\Ballon Game.pdb
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Ballon_Game.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Ballon Game.exe
+C:\Users\MuradPc\source\repos\Arrow Game\Arrow Game\obj\Debug\Ballon Game.pdb
